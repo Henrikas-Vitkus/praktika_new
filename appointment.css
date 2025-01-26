@@ -129,6 +129,8 @@ footer{
 }
 .fa-bars{
     display: none;
+    position: relative;
+    left: 200px;
 }
 .dropdown-content{
     display: none;
